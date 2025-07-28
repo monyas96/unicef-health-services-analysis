@@ -1,0 +1,201 @@
+country_name,iso3_code,u5mr_status
+Afghanistan,AFG,off_track
+Angola,AGO,off_track
+Anguilla,AIA,on_track
+Albania,ALB,on_track
+Andorra,AND,on_track
+United Arab Emirates,ARE,on_track
+Argentina,ARG,on_track
+Armenia,ARM,on_track
+Antigua and Barbuda,ATG,on_track
+Australia,AUS,on_track
+Austria,AUT,on_track
+Azerbaijan,AZE,on_track
+Benin,BEN,off_track
+Belgium,BEL,on_track
+Botswana,BWA,off_track
+Burkina Faso,BFA,off_track
+Bangladesh,BGD,unknown
+Bulgaria,BGR,on_track
+Bahrain,BHR,on_track
+Bahamas,BHS,on_track
+Bosnia and Herzegovina,BIH,on_track
+Belarus,BLR,on_track
+Belize,BLZ,on_track
+Bolivia (Plurinational State of),BOL,on_track
+Brazil,BRA,on_track
+Barbados,BRB,on_track
+Brunei Darussalam,BRN,on_track
+Bhutan,BTN,on_track
+Burundi,BDI,off_track
+Cameroon,CMR,off_track
+Canada,CAN,on_track
+Switzerland,CHE,on_track
+Chile,CHL,on_track
+China,CHN,on_track
+Central African Republic,CAF,off_track
+Chad,TCD,off_track
+Comoros,COM,off_track
+Congo,COG,off_track
+Cook Islands,COK,on_track
+Colombia,COL,on_track
+Côte d'Ivoire,CIV,off_track
+Cabo Verde,CPV,on_track
+Costa Rica,CRI,on_track
+Cuba,CUB,on_track
+Cyprus,CYP,on_track
+Czechia,CZE,on_track
+Germany,DEU,on_track
+Democratic Republic of the Congo,COD,off_track
+Dominica,DMA,off_track
+Denmark,DNK,on_track
+Dominican Republic,DOM,off_track
+Algeria,DZA,on_track
+Ecuador,ECU,on_track
+Egypt,EGY,on_track
+Djibouti,DJI,off_track
+Spain,ESP,on_track
+Estonia,EST,on_track
+Ethiopia,ETH,off_track
+Finland,FIN,on_track
+Equatorial Guinea,GNQ,off_track
+France,FRA,on_track
+Micronesia (Federated States of),FSM,on_track
+Eritrea,ERI,off_track
+United Kingdom,GBR,on_track
+Georgia,GEO,on_track
+Eswatini,SWZ,off_track
+Fiji,FJI,off_track
+Gabon,GAB,off_track
+Gambia,GMB,off_track
+Ghana,GHA,off_track
+Greece,GRC,on_track
+Grenada,GRD,on_track
+Guatemala,GTM,on_track
+Guyana,GUY,unknown
+Honduras,HND,on_track
+Croatia,HRV,on_track
+Guinea,GIN,off_track
+Hungary,HUN,on_track
+Indonesia,IDN,on_track
+India,IND,unknown
+Ireland,IRL,on_track
+Iran (Islamic Republic of),IRN,on_track
+Iraq,IRQ,on_track
+Iceland,ISL,on_track
+Israel,ISR,on_track
+Italy,ITA,on_track
+Jamaica,JAM,on_track
+Jordan,JOR,on_track
+Japan,JPN,on_track
+Kazakhstan,KAZ,on_track
+Guinea-Bissau,GNB,off_track
+Kyrgyzstan,KGZ,on_track
+Cambodia,KHM,on_track
+Haiti,HTI,off_track
+Saint Kitts and Nevis,KNA,on_track
+Republic of Korea,KOR,on_track
+Kuwait,KWT,on_track
+Kenya,KEN,off_track
+Lebanon,LBN,on_track
+Kiribati,KIR,off_track
+Libya,LBY,on_track
+Saint Lucia,LCA,on_track
+Sri Lanka,LKA,on_track
+Lao People's Democratic Republic,LAO,off_track
+Lithuania,LTU,on_track
+Luxembourg,LUX,on_track
+Latvia,LVA,on_track
+Morocco,MAR,on_track
+Monaco,MCO,on_track
+Republic of Moldova,MDA,on_track
+Lesotho,LSO,off_track
+Maldives,MDV,on_track
+Mexico,MEX,on_track
+Marshall Islands,MHL,unknown
+North Macedonia,MKD,on_track
+Liberia,LBR,off_track
+Malta,MLT,on_track
+Madagascar,MDG,off_track
+Montenegro,MNE,on_track
+Mongolia,MNG,on_track
+Mali,MLI,off_track
+Mauritania,MRT,off_track
+Montserrat,MSR,on_track
+Mauritius,MUS,on_track
+Malawi,MWI,off_track
+Malaysia,MYS,on_track
+Mozambique,MOZ,off_track
+Myanmar,MMR,off_track
+Namibia,NAM,off_track
+Nicaragua,NIC,on_track
+Niue,NIU,on_track
+Netherlands (Kingdom of the),NLD,on_track
+Norway,NOR,on_track
+Nepal,NPL,unknown
+Nauru,NRU,unknown
+New Zealand,NZL,on_track
+Oman,OMN,on_track
+Niger,NER,off_track
+Panama,PAN,on_track
+Peru,PER,on_track
+Philippines,PHL,off_track
+Palau,PLW,on_track
+Nigeria,NGA,off_track
+Poland,POL,on_track
+Democratic People's Republic of Korea,PRK,on_track
+Portugal,PRT,on_track
+Paraguay,PRY,on_track
+State of Palestine,PSE,on_track
+Qatar,QAT,on_track
+Kosovo (UNSCR 1244),RKS,on_track
+Romania,ROU,on_track
+Russian Federation,RUS,on_track
+Pakistan,PAK,off_track
+Saudi Arabia,SAU,on_track
+Papua New Guinea,PNG,off_track
+Senegal,SEN,off_track
+Singapore,SGP,on_track
+Solomon Islands,SLB,on_track
+Rwanda,RWA,off_track
+El Salvador,SLV,on_track
+San Marino,SMR,on_track
+Sierra Leone,SLE,off_track
+Serbia,SRB,on_track
+Somalia,SOM,off_track
+Sao Tome and Principe,STP,on_track
+Suriname,SUR,on_track
+Slovakia,SVK,on_track
+Slovenia,SVN,on_track
+Sweden,SWE,on_track
+South Africa,ZAF,off_track
+Seychelles,SYC,on_track
+Syrian Arab Republic,SYR,on_track
+Turks and Caicos Islands,TCA,on_track
+South Sudan,SSD,off_track
+Sudan,SDN,off_track
+Thailand,THA,on_track
+Tajikistan,TJK,unknown
+Timor-Leste,TLS,off_track
+Togo,TGO,off_track
+Tonga,TON,on_track
+Trinidad and Tobago,TTO,on_track
+Tunisia,TUN,on_track
+Türkiye,TUR,on_track
+Tuvalu,TUV,on_track
+United Republic of Tanzania,TZA,off_track
+Turkmenistan,TKM,off_track
+Ukraine,UKR,on_track
+Uruguay,URY,on_track
+United States,USA,on_track
+Uzbekistan,UZB,on_track
+Saint Vincent and the Grenadines,VCT,on_track
+Venezuela (Bolivarian Republic of),VEN,on_track
+British Virgin Islands,VGB,on_track
+Viet Nam,VNM,on_track
+Vanuatu,VUT,on_track
+Samoa,WSM,on_track
+Uganda,UGA,off_track
+Yemen,YEM,off_track
+Zambia,ZMB,off_track
+Zimbabwe,ZWE,off_track

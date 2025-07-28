@@ -1,0 +1,84 @@
+{
+  "overall_coverage": {
+    "MNCH_ANC4": {
+      "births_weighted_avg": 67.65248532581028,
+      "simple_avg": 74.1447963800905,
+      "total_births": 6523018.263000001,
+      "num_countries": 103,
+      "min_coverage": 20.9,
+      "max_coverage": 99.9
+    },
+    "MNCH_SAB": {
+      "births_weighted_avg": 82.27783025039089,
+      "simple_avg": 93.01271393643032,
+      "total_births": 6797814.263,
+      "num_countries": 167,
+      "min_coverage": 31.9,
+      "max_coverage": 100.0
+    }
+  },
+  "by_status": {
+    "off_track": {
+      "MNCH_ANC4": {
+        "births_weighted_avg": 54.806823494548276,
+        "simple_avg": 59.87924528301887,
+        "total_births": 252183.72900000005,
+        "num_countries": 42,
+        "min_coverage": 20.9,
+        "max_coverage": 97.6
+      },
+      "MNCH_SAB": {
+        "births_weighted_avg": 66.88743831171914,
+        "simple_avg": 78.24603174603175,
+        "total_births": 272052.078,
+        "num_countries": 44,
+        "min_coverage": 31.9,
+        "max_coverage": 100.0
+      }
+    },
+    "on_track": {
+      "MNCH_ANC4": {
+        "births_weighted_avg": 89.66269707763445,
+        "simple_avg": 86.5142857142857,
+        "total_births": 162707.263,
+        "num_countries": 40,
+        "min_coverage": 53.5,
+        "max_coverage": 99.9
+      },
+      "MNCH_SAB": {
+        "births_weighted_avg": 96.67151946199404,
+        "simple_avg": 98.18298850574712,
+        "total_births": 379031.63899999997,
+        "num_countries": 100,
+        "min_coverage": 71.5,
+        "max_coverage": 100.0
+      }
+    }
+  },
+  "summary": {
+    "total_records": 2929,
+    "unique_countries": 170,
+    "year_range": {
+      "min": 2018,
+      "max": 2022
+    },
+    "indicators": [
+      "MNCH_ANC4",
+      "MNCH_SAB"
+    ],
+    "u5mr_status_distribution": {
+      "on_track": 1529,
+      "off_track": 464,
+      "unknown": 64
+    },
+    "total_births": 13320832.526,
+    "coverage_statistics": {
+      "mean": 87.31819733697508,
+      "median": 94.6,
+      "std": 16.688707285097216,
+      "min": 20.9,
+      "max": 100.0
+    }
+  },
+  "data_for_visualization": "   indicator u5mr_status  coverage_value  num_countries  total_births\n0  MNCH_ANC4   off_track       54.806823             42    252183.729\n1  MNCH_ANC4    on_track       89.662697             40    162707.263\n2   MNCH_SAB   off_track       66.887438             44    272052.078\n3   MNCH_SAB    on_track       96.671519            100    379031.639"
+}
