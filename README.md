@@ -29,6 +29,11 @@ python run_analysis.py
 streamlit run app.py
 ```
 
+**Or access the deployed dashboard directly:**
+🌐 **Live Dashboard**: [https://monyas96-unicef-health-services-analysis-app-e2bvjr.streamlit.app/](https://monyas96-unicef-health-services-analysis-app-e2bvjr.streamlit.app/)
+
+**Access Analysis Output Here**: The interactive dashboard provides complete access to all analysis results, visualizations, and insights.
+
 ## Repository Structure
 
 ```
@@ -106,9 +111,11 @@ The analysis uses three key data sources, all included in the repository:
 - **Statistical Insights**: Weighted vs simple average comparisons
 
 ### Interactive Dashboard
+- **Live Access**: [https://monyas96-unicef-health-services-analysis-app-e2bvjr.streamlit.app/](https://monyas96-unicef-health-services-analysis-app-e2bvjr.streamlit.app/)
 - **Real-time Filtering**: By country, year, indicator, and U5MR status
 - **Dynamic Visualizations**: Interactive charts and plots
 - **Comprehensive Exploration**: Multiple analysis perspectives
+- **Complete Analysis Output**: All results, insights, and methodology available online
 
 
 ---
