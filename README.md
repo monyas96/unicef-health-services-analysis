@@ -140,19 +140,6 @@ The analysis uses three key data sources, all included in the repository:
    - File: `data/raw/On-track and off-track countries.xlsx`
    - Classification: On-track if Status.U5MR is "achieved" or "on-track", Off-track if "acceleration needed"
 
-## Analysis Methodology
-
-### Statistical Approach
-- **Births-Weighted Averages**: Countries weighted by projected births for 2022
-- **Formula**: `Weighted Average = Σ(coverage_value × births_2022) / Σ(births_2022)`
-- **Rationale**: More accurate representation of global health service coverage by weighting countries based on birth rates rather than total population
-- **Data Filtering**: Uses the most recent estimate per country within 2018-2022 range for each indicator
-
-### Key Features
-- **Reproducible**: Complete environment setup and dependency management
-- **Modular**: Clean separation of data processing, analysis, and visualization
-- **Interactive**: Dynamic dashboard for exploration and interpretation
-- **Professional**: Clean code structure suitable for technical evaluation
 
 ## Expected Outputs
 
