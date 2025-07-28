@@ -79,50 +79,7 @@ UNICEF Test/
 - **`analysis_config.json`**: Auto-generated configuration containing project metadata, paths, and analysis settings.
 - **`logs/analysis.log`**: Detailed execution log for debugging and reproducibility verification.
 
-## How to Reproduce the Analysis
 
-### Prerequisites
-- Python 3.8 or higher
-- Internet connection for package installation
-- All raw data files are included in the repository
-
-### Step 1: Environment Setup
-```bash
-# Run the environment setup
-python user_profile.py
-```
-
-This will:
-- Check Python version compatibility
-- Install required packages (pandas, numpy, matplotlib, seaborn, openpyxl, xlrd, streamlit, plotly)
-- Create necessary directories
-- Validate data files
-- Generate configuration file
-
-### Step 2: Run Analysis
-```bash
-# Execute the complete analysis workflow
-python run_analysis.py
-```
-
-This will:
-1. **Data Cleaning**: Load and clean all datasets, handle complex Excel formatting, merge on consistent country identifiers
-2. **Coverage Calculation**: Calculate births-weighted averages using projected births for 2022 as weights
-3. **Data Export**: Save results for interactive dashboard
-4. **Dashboard Launch**: Optionally launch the interactive Streamlit dashboard
-
-### Step 3: Explore Results
-```bash
-# Launch the interactive dashboard (if not launched automatically)
-streamlit run app.py
-```
-
-The dashboard provides:
-- **Overview**: Key findings and metrics with coverage comparison
-- **ANC4 & SBA Coverage**: Detailed analysis with expandable charts
-- **Country Explorer**: Interactive filtering and visualization
-- **Weighting Comparison**: Births-weighted vs simple averages
-- **Methodology and Results**: Detailed explanation of analysis approach
 
 ## Data Sources
 
