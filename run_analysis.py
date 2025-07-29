@@ -158,8 +158,16 @@ def main():
         
         # Save results as JSON for dashboard
         import json
+        
+        # Convert DataFrame to dict for JSON serialization
+        results_for_json = results.copy()
+        if 'data_for_visualization' in results_for_json:
+            # Convert DataFrame to dict if it exists
+            if isinstance(results_for_json['data_for_visualization'], pd.DataFrame):
+                results_for_json['data_for_visualization'] = results_for_json['data_for_visualization'].to_dict('records')
+        
         with open(data_paths['output'] / 'analysis_results.json', 'w') as f:
-            json.dump(results, f, indent=2)
+            json.dump(results_for_json, f, indent=2)
         
         print("✓ Data exported successfully for Streamlit dashboard")
         
