@@ -13,7 +13,7 @@ The interactive dashboard provides immediate access to all analysis results, vis
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd "UNICEF Test"
+
 ```
 
 ### 2. Set Up Environment
